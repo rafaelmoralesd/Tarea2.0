@@ -152,7 +152,7 @@ class Box extends StatelessWidget {
                               Text("Llamar a +504 9902-9311"),
                             ],
                           ),
-                          Row(
+                          Row( 
                             children: [
                               Icon(Icons.duo),
                               SizedBox(width: 20),
